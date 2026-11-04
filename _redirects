@@ -1,0 +1,25 @@
+# Old Square Online addresses -> new pages (301 = permanent, passes search ranking)
+/frequently-asked-questions        /faq.html                          301
+/credentials-and-verification      /about.html                        301
+/our-areas-of-expertise            /documents-we-notarize.html        301
+/disclaimers                       /privacy.html                      301
+/product/electronic-notarization-in-person-through-device-/*  /electronic-notarization.html  301
+/product/in-person-notarization/*  /mobile-notarization.html          301
+/shop/mobile-notary-we-come-to-you/*        /mobile-notarization.html        301
+/shop/document-courier-pickup-delivery/*    /document-courier-shipping.html  301
+/shop/electronic-online-notary-services/*   /electronic-notarization.html    301
+/product/*                         /                                  301
+/shop/*                            /                                  301
+/s/*                               /                                  301
+/appointments                      /contact.html#book                 301
+/book                              /contact.html#book                 301
+/booking                           /contact.html#book                 301
+/faq                               /faq.html                          301
+/faqs                              /faq.html                          301
+/credentials                       /about.html                        301
+/about                             /about.html                        301
+/privacy                           /privacy.html                      301
+/contact                           /contact.html                      301
+/pricing                           /pricing.html                      301
+/pay                               /pay.html                          301
+/services                          /#services                         301
